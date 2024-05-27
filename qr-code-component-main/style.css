@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    font-family: Outfit, sans-serif, serif;
+    
+}
+
+.back{
+    background-color: white;
+    width: 12%;
+    padding: 20px;      
+    border-radius: 20px;
+}    
+
+
+.png{
+    width: 100%;
+    border-radius: 15px;
+    border: 0;
+    aspect-ratio: 1 / 1;
+}       
+
+
+body span{
+    color: rgb(118, 181, 182);
+}
+
+div span{
+    font-size:100%;
+}
